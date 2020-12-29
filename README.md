@@ -11,8 +11,8 @@ save it in the same file as Mailman python script and enjoy
 Make sure you have requests , json modules installed 
 
 How to run :
-  python3 Mailman.py Ture  <== creates a log file with found emails 
-  python3 Mailman.py       <== outputs the results in the terminal 
+  ```python3 Mailman.py Ture```  <== creates a log file with found emails 
+  ```python3 Mailman.py     ```  <== outputs the results in the terminal 
   
  have fun
  
